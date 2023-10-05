@@ -12,7 +12,7 @@ Besides, this dashboard is built to instantly answer important questions/request
 
 ## Data Source
 
-Datasets were prepared and cleaned in Google Sheet then were imported to Google Looker Studio for visualization.
+Datasets were prepared and cleaned in Google Sheets then were imported to Google Looker Studio for visualization.
 ![](https://github.com/munirauni/Subscription_Monitoring_Dashboard/blob/main/docs/assets/image/Data%20Source.png)
 
 ## COMPLETE DASHBOARD
